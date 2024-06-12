@@ -1,0 +1,11 @@
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.csproj.AssemblyReference.cache
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.csproj.SuggestedBindingRedirects.cache
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.Form1.resources
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.Properties.Resources.resources
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.csproj.GenerateResource.cache
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.csproj.CoreCompileInputs.cache
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\bin\Debug\TaskFactoryExample.exe.config
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\bin\Debug\TaskFactoryExample.exe
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\bin\Debug\TaskFactoryExample.pdb
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.exe
+S:\Beamer\Beamer Files\Software Development\OtherExamples\TaskFactory_Example\TaskFactoryExample\TaskFactoryExample\obj\Debug\TaskFactoryExample.pdb
